@@ -1,0 +1,8 @@
+NODE_ENV=development
+SKIP_PREFLIGHT_CHECK=true
+BACKEND_URL=http://localhost:4000
+FRONTEND_URL=http://localhost:3000
+MONGODB_URL="mongodb+srv://<userName>:<password>@cluster0.9kchnfe.mongodb.net/?retryWrites=true&w=majority"
+
+
+
